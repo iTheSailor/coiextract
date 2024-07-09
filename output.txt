@@ -1,0 +1,76 @@
+{
+  "Employment": [
+    {
+      "position": "Fullstack Developer",
+      "company": "Kizer -Startup",
+      "location": "Middletown, DE",
+      "dates": "June 2023 to Present",
+      "responsibilities": [
+        "Spearheaded the creation of a dedicated data server separate from the main PERN stack to handle mass data collection through scrapers and crawlers using Python libraries in a Django web app",
+        "Implemented code to organize and categorize findings for later use in the PERN application via API endpoints",
+        "Developed and implemented RESTful APIs using Django Rest Framework for seamless data exchange",
+        "Integrated third-party services and APIs into Django applications",
+        "Optimized database queries and storage strategies for improved performance",
+        "Ensured code quality, testing, and version control best practices for reliability and maintainability"
+      ]
+    },
+    {
+      "position": "Sales Associate",
+      "company": "Troy Granite",
+      "location": "Newark, DE",
+      "dates": "March 2018 to June 2019",
+      "responsibilities": [
+        "Provided exceptional customer service resulting in a 95% satisfaction rating",
+        "Collaborated with team members to implement new sales strategies, leading to a 15% revenue increase",
+        "Used product knowledge to educate customers and drive upselling opportunities"
+      ]
+    },
+    {
+      "position": "Account Executive",
+      "company": "Tusk & Consultants",
+      "location": "Las Vegas, NV",
+      "dates": "February 2016 to October 2017",
+      "responsibilities": [
+        "Built strong customer relationships through communication and interpersonal skills",
+        "Executed door-to-door sales strategies for product/services promotion",
+        "Consistently met or exceeded sales targets using effective sales techniques"
+      ]
+    }
+  ],
+  "Skills": [
+    "Python",
+    "Javascript",
+    "Django",
+    "React",
+    "PostgreSQL",
+    "Node.js",
+    "AWS",
+    "Docker",
+    "Linux Systems",
+    "sqlite3",
+    "Git",
+    "Vim",
+    "Bootstrap",
+    "HTML",
+    "CSS",
+    "REST API",
+    "Agile",
+    "MySQL",
+    "GitHub",
+    "JSON"
+  ],
+  "Education": [
+    {
+      "degree": "Bachelor of Science in Computer Network Security",
+      "university": "Wilmington University",
+      "location": "Wilmington, DE",
+      "dates": "January 2019 to Present"
+    },
+    {
+      "degree": "Coding Bootcamp",
+      "school": "Coding Dojo",
+      "location": "Colorado Springs, CO",
+      "dates": "February 2023 to July 2023"
+    }
+  ]
+}
